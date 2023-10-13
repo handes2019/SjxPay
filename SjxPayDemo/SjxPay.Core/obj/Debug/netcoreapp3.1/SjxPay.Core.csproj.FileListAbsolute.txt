@@ -1,0 +1,10 @@
+D:\VSCODE\SjxPayDemo\SjxPay.Core\bin\Debug\netcoreapp3.1\SjxPay.Core.deps.json
+D:\VSCODE\SjxPayDemo\SjxPay.Core\bin\Debug\netcoreapp3.1\SjxPay.Core.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Core\bin\Debug\netcoreapp3.1\SjxPay.Core.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.csproj.AssemblyReference.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.AssemblyInfoInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.AssemblyInfo.cs
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.csproj.CoreCompileInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Core\obj\Debug\netcoreapp3.1\SjxPay.Core.pdb

@@ -1,0 +1,15 @@
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.csproj.AssemblyReference.cache
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.AssemblyInfoInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.AssemblyInfo.cs
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.csproj.CoreCompileInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\bin\Debug\net7.0\SjxPay.AliPay.deps.json
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\bin\Debug\net7.0\SjxPay.AliPay.dll
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\bin\Debug\net7.0\SjxPay.AliPay.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\bin\Debug\net7.0\SjxPay.Core.dll
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\bin\Debug\net7.0\SjxPay.Core.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.csproj.CopyComplete
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.dll
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\refint\SjxPay.AliPay.dll
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\SjxPay.AliPay.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.AliPay\obj\Debug\net7.0\ref\SjxPay.AliPay.dll

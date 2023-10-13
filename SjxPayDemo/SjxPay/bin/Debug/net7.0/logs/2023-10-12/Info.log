@@ -1,0 +1,69 @@
+[15:41:58]Registered 3 endpoints in 386 milliseconds.
+[15:48:27]Registered 3 endpoints in 350 milliseconds.
+[15:49:54]Registered 3 endpoints in 408 milliseconds.
+[15:50:10]Registered 3 endpoints in 352 milliseconds.
+[15:50:10]Now listening on: https://localhost:7237
+[15:50:10]Now listening on: http://localhost:5185
+[15:50:10]Application started. Press Ctrl+C to shut down.
+[15:50:10]Hosting environment: Development
+[15:50:10]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[15:56:18]Registered 3 endpoints in 448 milliseconds.
+[15:56:18]Now listening on: https://localhost:7237
+[15:56:18]Now listening on: http://localhost:5185
+[15:56:18]Application started. Press Ctrl+C to shut down.
+[15:56:18]Hosting environment: Development
+[15:56:18]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[16:12:09]Registered 3 endpoints in 341 milliseconds.
+[16:12:09]Now listening on: https://localhost:7237
+[16:12:09]Now listening on: http://localhost:5185
+[16:12:09]Application started. Press Ctrl+C to shut down.
+[16:12:09]Hosting environment: Development
+[16:12:09]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[16:16:06]Loaded ABP modules:
+[16:16:06]- SjxPay.Domain.DomainModule
+[16:16:06]Initialized all ABP modules.
+[16:16:06]Registered 3 endpoints in 9175 milliseconds.
+[16:16:06]Now listening on: https://localhost:7237
+[16:16:06]Now listening on: http://localhost:5185
+[16:16:06]Application started. Press Ctrl+C to shut down.
+[16:16:06]Hosting environment: Development
+[16:16:06]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[16:17:42]Loaded ABP modules:
+[16:17:43]- SjxPay.Domain.DomainModule
+[16:17:43]Initialized all ABP modules.
+[16:17:43]Registered 3 endpoints in 3039 milliseconds.
+[16:17:43]Now listening on: https://localhost:7237
+[16:17:43]Now listening on: http://localhost:5185
+[16:17:43]Application started. Press Ctrl+C to shut down.
+[16:17:43]Hosting environment: Development
+[16:17:43]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[16:43:49]Loaded ABP modules:
+[16:43:49]- SjxPay.Domain.DomainModule
+[16:43:49]  - SjxPayRabbitMQ.RabbitmqMoudule
+[16:43:49]Initialized all ABP modules.
+[16:43:49]Registered 3 endpoints in 12754 milliseconds.
+[16:43:49]Now listening on: https://localhost:7237
+[16:43:49]Now listening on: http://localhost:5185
+[16:43:49]Application started. Press Ctrl+C to shut down.
+[16:43:49]Hosting environment: Development
+[16:43:49]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[16:55:07]Loaded ABP modules:
+[16:55:07]- SjxPay.Domain.DomainModule
+[16:55:07]  - SjxPayRabbitMQ.RabbitmqMoudule
+[16:55:07]Initialized all ABP modules.
+[16:55:07]Registered 3 endpoints in 4860 milliseconds.
+[16:55:08]Now listening on: https://localhost:7237
+[16:55:08]Now listening on: http://localhost:5185
+[16:55:08]Application started. Press Ctrl+C to shut down.
+[16:55:08]Hosting environment: Development
+[16:55:08]Content root path: D:\VSCODE\SjxPayDemo\SjxPay
+[17:24:44]Loaded ABP modules:
+[17:24:44]- SjxPay.Domain.DomainModule
+[17:24:44]  - SjxPayRabbitMQ.RabbitmqMoudule
+[17:24:44]Initialized all ABP modules.
+[17:24:45]Registered 3 endpoints in 3367 milliseconds.
+[17:24:45]Now listening on: https://localhost:7237
+[17:24:45]Now listening on: http://localhost:5185
+[17:24:45]Application started. Press Ctrl+C to shut down.
+[17:24:45]Hosting environment: Development
+[17:24:45]Content root path: D:\VSCODE\SjxPayDemo\SjxPay

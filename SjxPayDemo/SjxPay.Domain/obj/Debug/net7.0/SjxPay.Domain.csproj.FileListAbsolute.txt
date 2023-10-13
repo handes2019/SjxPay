@@ -1,0 +1,17 @@
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPay.Domain.deps.json
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPay.Domain.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPay.Domain.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPay.Common.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPay.Common.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.csproj.AssemblyReference.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.AssemblyInfoInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.AssemblyInfo.cs
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.csproj.CoreCompileInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.csproj.CopyComplete
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\refint\SjxPay.Domain.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\SjxPay.Domain.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\obj\Debug\net7.0\ref\SjxPay.Domain.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPayRabbitMQ.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Domain\bin\Debug\net7.0\SjxPayRabbitMQ.pdb

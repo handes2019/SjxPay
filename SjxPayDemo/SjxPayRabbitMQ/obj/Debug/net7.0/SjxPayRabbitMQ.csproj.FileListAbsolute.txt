@@ -1,0 +1,15 @@
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\bin\Debug\net7.0\SjxPayRabbitMQ.deps.json
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\bin\Debug\net7.0\SjxPayRabbitMQ.dll
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\bin\Debug\net7.0\SjxPayRabbitMQ.pdb
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.csproj.AssemblyReference.cache
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.AssemblyInfoInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.AssemblyInfo.cs
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.csproj.CoreCompileInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.dll
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\refint\SjxPayRabbitMQ.dll
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.pdb
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\ref\SjxPayRabbitMQ.dll
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\bin\Debug\net7.0\SjxPay.Common.dll
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\bin\Debug\net7.0\SjxPay.Common.pdb
+D:\VSCODE\SjxPayDemo\SjxPayRabbitMQ\obj\Debug\net7.0\SjxPayRabbitMQ.csproj.CopyComplete

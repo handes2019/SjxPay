@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SjxPay", "SjxPay.csproj", "{B682C503-BD2B-4593-B4A3-3E04F3AF91F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SjxPay.Domain", "..\SjxPay.Domain\SjxPay.Domain.csproj", "{AE3643E9-13B2-49C8-A33D-570A9B1C9012}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SjxPay.Common", "..\SjxPay.Common\SjxPay.Common.csproj", "{67050B0B-C403-4541-9BA1-667F22E13824}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SjxPay.Core", "..\SjxPay.Core\SjxPay.Core.csproj", "{6AD387CD-00C5-4FF6-84E6-B2A3EB8314C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SjxPay.Wechatpay", "..\SjxPay.Wechatpay\SjxPay.Wechatpay.csproj", "{5D8C9EB7-2616-4D00-833B-08E081A25CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SjxPayRabbitMQ", "..\SjxPayRabbitMQ\SjxPayRabbitMQ.csproj", "{2A66342E-EEBF-47E6-9159-531FC1D065C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SjxPay.AliPay", "..\SjxPay.AliPay\SjxPay.AliPay.csproj", "{45409EB0-EF11-481D-8C7B-2D30F5AD8CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B682C503-BD2B-4593-B4A3-3E04F3AF91F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B682C503-BD2B-4593-B4A3-3E04F3AF91F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B682C503-BD2B-4593-B4A3-3E04F3AF91F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B682C503-BD2B-4593-B4A3-3E04F3AF91F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3643E9-13B2-49C8-A33D-570A9B1C9012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3643E9-13B2-49C8-A33D-570A9B1C9012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3643E9-13B2-49C8-A33D-570A9B1C9012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3643E9-13B2-49C8-A33D-570A9B1C9012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67050B0B-C403-4541-9BA1-667F22E13824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67050B0B-C403-4541-9BA1-667F22E13824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67050B0B-C403-4541-9BA1-667F22E13824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67050B0B-C403-4541-9BA1-667F22E13824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD387CD-00C5-4FF6-84E6-B2A3EB8314C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD387CD-00C5-4FF6-84E6-B2A3EB8314C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD387CD-00C5-4FF6-84E6-B2A3EB8314C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD387CD-00C5-4FF6-84E6-B2A3EB8314C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8C9EB7-2616-4D00-833B-08E081A25CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8C9EB7-2616-4D00-833B-08E081A25CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8C9EB7-2616-4D00-833B-08E081A25CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8C9EB7-2616-4D00-833B-08E081A25CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A66342E-EEBF-47E6-9159-531FC1D065C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A66342E-EEBF-47E6-9159-531FC1D065C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A66342E-EEBF-47E6-9159-531FC1D065C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A66342E-EEBF-47E6-9159-531FC1D065C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45409EB0-EF11-481D-8C7B-2D30F5AD8CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45409EB0-EF11-481D-8C7B-2D30F5AD8CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45409EB0-EF11-481D-8C7B-2D30F5AD8CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45409EB0-EF11-481D-8C7B-2D30F5AD8CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88E3683D-501F-4EC2-9299-3EA50CAF67DA}
+	EndGlobalSection
+EndGlobal

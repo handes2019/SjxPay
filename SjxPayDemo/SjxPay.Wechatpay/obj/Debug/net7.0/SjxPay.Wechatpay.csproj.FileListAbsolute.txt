@@ -1,0 +1,15 @@
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\bin\Debug\net7.0\SjxPay.Wechatpay.deps.json
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\bin\Debug\net7.0\SjxPay.Wechatpay.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\bin\Debug\net7.0\SjxPay.Wechatpay.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\bin\Debug\net7.0\SjxPay.Core.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\bin\Debug\net7.0\SjxPay.Core.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.csproj.AssemblyReference.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.AssemblyInfoInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.AssemblyInfo.cs
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.csproj.CoreCompileInputs.cache
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.csproj.CopyComplete
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\refint\SjxPay.Wechatpay.dll
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\SjxPay.Wechatpay.pdb
+D:\VSCODE\SjxPayDemo\SjxPay.Wechatpay\obj\Debug\net7.0\ref\SjxPay.Wechatpay.dll
